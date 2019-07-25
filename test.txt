@@ -1,0 +1,63 @@
+			01	02	03	04	05	06	07	08	09	10	11	12	13	14	15	16	17	18	19	20
+			Chloramphenicol: 1.56	Chloramphenicol: 2.00	Chloramphenicol: 3.90	Chloramphenicol: 4.00	Chloramphenicol: 2.00	Chloramphenicol: 2.00	Chloramphenicol: 3.90	Chloramphenicol: 3.90	Chloramphenicol: 3.90	Chloramphenicol: 3.90	Chloramphenicol: 3.90	Chloramphenicol: 3.90	Chloramphenicol: 7.80	Chloramphenicol: 7.80	Chloramphenicol: 7.80	Chloramphenicol: 15.60	Chloramphenicol: 15.60	Chloramphenicol: 15.60	Chloramphenicol: 15.60	Chloramphenicol: 7.80
+			Ciprofloxacin: 12.50	Ciprofloxacin: 15.63	Ciprofloxacin: 3.90	Ciprofloxacin: 4.00	Ciprofloxacin: 7.80	Ciprofloxacin: 7.81	Ciprofloxacin: 15.60	Ciprofloxacin: 15.60	Ciprofloxacin: 15.60	Ciprofloxacin: 15.60	Ciprofloxacin: 15.60	Ciprofloxacin: 31.25	Ciprofloxacin: 31.30	Ciprofloxacin: 31.30	Ciprofloxacin: 31.30	Ciprofloxacin: 31.30	Ciprofloxacin: 31.30	Ciprofloxacin: 31.30	Ciprofloxacin: 31.30	Ciprofloxacin: 31.30
+			Doxycycline: 0.20	Doxycycline: 0.10	Doxycycline: 0.10	Doxycycline: 0.05	Doxycycline: 0.20	Doxycycline: 0.20	Doxycycline: 0.20	Doxycycline: 0.39	Doxycycline: 0.39	Doxycycline: 0.39	Doxycycline: 0.39	Doxycycline: 0.78	Doxycycline: 0.78	Doxycycline: 1.56	Doxycycline: 1.56	Doxycycline: 1.56	Doxycycline: 1.56	Doxycycline: 1.56	Doxycycline: 1.56	Doxycycline: 1.56
+			Gentamicin: 1.56	Gentamicin: 0.98	Gentamicin: 1.95	Gentamicin: 1.00	Gentamicin: 2.00	Gentamicin: 2.00	Gentamicin: 3.90	Gentamicin: 3.90	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 3.90	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 1.95	Gentamicin: 1.95
+			Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.05	Imipenem: 0.05	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.10	Imipenem: 0.05	Imipenem: 0.05	Imipenem: 0.10	Imipenem: 0.20	Imipenem: 0.20	Imipenem: 0.20	Imipenem: 0.10
+			NZ_CP009759_1: 144.39	NZ_CP009759_1: 139.48	NZ_CP009759_1: 143.64	NZ_CP009759_1: 146.49	NZ_CP009759_1: 143.60	NZ_CP009759_1: 176.32	NZ_CP009759_1: 167.11	NZ_CP009759_1: 135.37	NZ_CP009759_1: 148.13	NZ_CP009759_1: 122.98	NZ_CP009759_1: 116.81	NZ_CP009759_1: 99.62	NZ_CP009759_1: 126.56	NZ_CP009759_1: 127.29	NZ_CP009759_1: 131.18	NZ_CP009759_1: 126.84	NZ_CP009759_1: 119.86	NZ_CP009759_1: 146.82	NZ_CP009759_1: 167.49	NZ_CP009759_1: 119.09
+			NZ_CP009758_1: 131.41	NZ_CP009758_1: 214.41	NZ_CP009758_1: 185.29	NZ_CP009758_1: 128.27	NZ_CP009758_1: 0.20	NZ_CP009758_1: 0.76	NZ_CP009758_1: 0.17	NZ_CP009758_1: 0.16	NZ_CP009758_1: 9.94	NZ_CP009758_1: 0.25	NZ_CP009758_1: 0.19	NZ_CP009758_1: 0.13	NZ_CP009758_1: 0.21	NZ_CP009758_1: 0.23	NZ_CP009758_1: 0.28	NZ_CP009758_1: 0.18	NZ_CP009758_1: 0.16	NZ_CP009758_1: 0.12	NZ_CP009758_1: 0.23	NZ_CP009758_1: 0.16
+NZ_CP009758_1_24750	Type: SNP	Product: BZ20_RS00165:hypothetical protein	0	0	0.34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009758_1_4	Type: Insertion	Product: Intergenic region	0	0.74	0	0.95	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009758_1_68390	Type: Insertion	Product: Intergenic region	0	0.78	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_1	Type: Insertion	Product: Intergenic region	0	0.5	0	0	0	0	0	0	0	0.78	0	0	0.5	0	0.53	0	0	0.5	0	0
+NZ_CP009759_1_1156918	Type: Deletion	Product: BZ20_RS05720:lipopolysaccharide biosynthesis protein RfbH	0	0	0	0	0	0	0	0	0	0	0	0.86	0.63	0	0	0	0	0	0	0
+NZ_CP009759_1_1175623	Type: Deletion	Product: BZ20_RS05800:DNA-binding transcriptional repressor AcrR	0	0	0	0	0	0	0	0	0	0	0	0	0.43	0	0	0	0	0	0	0
+NZ_CP009759_1_1175925	Type: Deletion	Product: BZ20_RS05800:DNA-binding transcriptional repressor AcrR	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.71
+NZ_CP009759_1_1175926	Type: Deletion	Product: BZ20_RS05800:DNA-binding transcriptional repressor AcrR	0	0	0	0	0	0	0	0	0	0.81	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_1176099	Type: SNP	Product: Intergenic region	0	0	0	0	0	0	0	0	0	0	0.48	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_1240512	Type: Deletion	Product: BZ20_RS06110:Unknown:pseudogene	0	0.69	0	0	0	0	0	0	0	0	0	0.58	0	0.63	0	0.67	0.65	0.66	0	0
+NZ_CP009759_1_1397868	Type: SNP	Product: Intergenic region	0	0	0	0	0	0	0	0	0	0	0.32	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_1567732	Type: SNP	Product: BZ20_RS07570:hypothetical protein	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0	0	0	0	0
+NZ_CP009759_1_169449	Type: SNP	Product: BZ20_RS01195:imidazolonepropionase	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.31	0	0	0
+NZ_CP009759_1_184884	Type: SNP	Product: BZ20_RS01250:sodium-potassium/proton antiporter ChaA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.33	0	0	0	0
+NZ_CP009759_1_1919619	Type: SNP	Product: BZ20_RS09150:membrane protein FxsA	0	0	0	0	0	0	0	0	0	0	0	0.34	0	0	0	0	0	0	0	0
+NZ_CP009759_1_2069971	Type: SNP	Product: BZ20_RS09825:elongation factor Tu	0	0	0	0	0	0	0	0	0	0.36	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_2141143	Type: SNP	Product: BZ20_RS10175:zinc/cadmium/mercury/lead-transporting ATPase	0	0.32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.32	0.3	0	0
+NZ_CP009759_1_2186466	Type: Insertion	Product: BZ20_RS10390:lipid III flippase WzxE	0	0	0	0	0	0	0	0	0	0	0	0	0	0.65	0.72	0	0.77	0	0	0
+NZ_CP009759_1_2195468	Type: Insertion	Product: BZ20_RS10430:undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase	0	0	0	0	0.83	0	0	0	0	0	0.76	0	0	0.96	0.98	0.95	0.9	0.94	0.93	0.94
+NZ_CP009759_1_2298341	Type: SNP	Product: BZ20_RS10905:hypothetical protein	0	0	0	0	0	0	0	0	0	0	0	0	0.31	0	0	0	0	0	0	0
+NZ_CP009759_1_249965	Type: Deletion	Product: BZ20_RS01540:Unknown:pseudogene	0.67	0.62	0.61	0.63	0.69	0	0.61	0.56	0.62	0.57	0.61	0.6	0.67	0.59	0	0.6	0.64	0.61	0.62	0.62
+NZ_CP009759_1_255965	Type: SNP	Product: BZ20_RS01570:phage tail tape measure protein	0	0.53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_2576795	Type: SNP	Product: BZ20_RS12115:anion permease	0	0	0	0	0	0.37	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_2692310	Type: SNP	Product: BZ20_RS12530:glutamine amidotransferase	0	0	0	0	0.31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_274665	Type: SNP	Product: BZ20_RS01680:hypothetical protein	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0	0	0	0	0	0	0
+NZ_CP009759_1_274673	Type: SNP	Product: BZ20_RS01680:hypothetical protein	0	0	0	0	0	0	0	0	0	0	0	0	0.37	0	0	0	0	0	0	0
+NZ_CP009759_1_3066329	Type: SNP	Product: BZ20_RS14310:glycerol-3-phosphate acyltransferase	0	0	0	0	0	0	0.31	0.4	0	0	0	0.33	0	0.36	0	0	0	0	0	0
+NZ_CP009759_1_3066358	Type: SNP	Product: BZ20_RS14310:glycerol-3-phosphate acyltransferase	0	0	0	0.47	0	0	0	0	0	0	0	0	0	0	0	0	0.37	0	0	0
+NZ_CP009759_1_3206875	Type: SNP	Product: Intergenic region	0.32	0	0.3	0	0	0	0.36	0	0	0	0	0	0.39	0	0	0	0	0.38	0	0
+NZ_CP009759_1_3320112	Type: Insertion	Product: Intergenic region	0	0	0	0	0	0	0	0	0	0	0	0	0	0.63	0	0	0.69	0	0	0.81
+NZ_CP009759_1_344833	Type: SNP	Product: Intergenic region	0	0	0	0	0	0	0	0	0	0	0.3	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_359244	Type: SNP	Product: BZ20_RS02090:4-hydroxyphenylacetate permease	0	0	0	0	0	0	0	0	0	0	0.33	0.34	0	0	0	0	0	0	0	0
+NZ_CP009759_1_3712267	Type: Insertion	Product: BZ20_RS22765:T cell receptor alpha chain	0	0	0	0	0.62	0	0	0	0	0	0	0	0	0.69	0.7	0.73	0.71	0.65	0.77	0.69
+NZ_CP009759_1_3961590	Type: Insertion	Product: BZ20_RS18235:PTS glucose transporter subunit IIA	0	0	0	0	0	0	0	0	0	0	0.56	0	0	0.68	0	0	0.73	0.73	0	0.65
+NZ_CP009759_1_3963824	Type: Insertion	Product: BZ20_RS18245:HPr family phosphocarrier protein	0	0	0	0	0	0	0.69	0.88	0.6	0.76	0	0.87	0	0	0	0	0	0	0	0
+NZ_CP009759_1_4	Type: Insertion	Product: Intergenic region	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_4036192	Type: SNP	Product: BZ20_RS18560:type IV secretion protein Rhs	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.89	0	0
+NZ_CP009759_1_4047780	Type: SNP	Product: BZ20_RS18640:c-type cytochrome biogenesis protein CcmF	0	0	0	0	0	0	0	0	0	0	0.32	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_4241991	Type: SNP	Product: BZ20_RS19460:pheromone autoinducer 2 transporter	0	0	0	0	0	0	0	0.31	0	0	0	0	0	0	0.36	0	0	0	0	0
+NZ_CP009759_1_4555911	Type: Deletion	Product: BZ20_RS20920:acid-shock protein	0	0	0	0	0	0	0	0	0	0.55	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_4645191	Type: SNP	Product: BZ20_RS21260:peptidase C39	0	0	0	0.34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_4645206	Type: SNP	Product: BZ20_RS21260:peptidase C39	0	0	0	0	0	0	0	0	0	0	0.32	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_4651047	Type: SNP	Product: Intergenic region	0	0	0	0	0	0	0	0	0	0	0	0	0.4	0.99	1	1	1	1	1	1
+NZ_CP009759_1_4704268	Type: SNP	Product: BZ20_RS21550:dsDNA-mimic protein	0.32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_4706161	Type: Insertion	Product: Intergenic region	0	0	0	0	0	0	0	0.78	0.5	0	0	0	0	0	0	0	0	0	0.5	0
+NZ_CP009759_1_496478	Type: SNP	Product: BZ20_RS02690:ABC transporter permease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.34	0	0	0	0	0
+NZ_CP009759_1_496485	Type: SNP	Product: BZ20_RS02690:ABC transporter permease	0.31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NZ_CP009759_1_831098	Type: SNP	Product: BZ20_RS04160:ribonucleoside-diphosphate reductase subunit alpha	0	0	0	0	0	0.33	0	0.3	0.56	0.41	0.44	0.32	0.48	0.33	0	0.44	0	0	0	0.3
+NZ_CP009759_1_831104	Type: SNP	Product: BZ20_RS04160:ribonucleoside-diphosphate reductase subunit alpha	0.55	0.5	0.6	0.41	0.42	0.67	0.5	0.5	0.53	0.53	0.53	0.5	0.58	0.67	0.59	0.36	0.66	0.67	0.56	0.36
+NZ_CP009759_1_929854	Type: Insertion	Product: BZ20_RS04615:UDP-glucose 4-epimerase	0	0	0	0	0	0.57	0	0.74	0.55	0.63	0	0.68	0.54	0	0	0	0	0	0	0
+NZ_CP009759_1_2075530_2078463	Type: Gap	Product: BZ20_RS09875:23S ribosomal RNA	0.950819672	1	0	0.024590164	0	0.983606557	0.590163934	0.295081967	0	0.139344262	0.098360656	0.040983607	0.754098361	0.081967213	0	0.147540984	0	0	0.62295082	0.286885246
+NZ_CP009759_1_2078976_2080524	Type: Gap	Product: BZ20_RS09890:16S ribosomal RNA	0	0	0	0.9	0	0	0.733333333	0.7	0.833333333	0.3	0.733333333	0.633333333	0	0.6	0.866666667	1	0	0	0	0
+NZ_CP009759_1_2241040_2242588	Type: Gap	Product: BZ20_RS10650:16S ribosomal RNA	0	0	0.923076923	0	0	0	0.923076923	0	0	0	0	1	0	0	0	0	0	0	0.153846154	0.692307692
+NZ_CP009759_1_2746898_2748446	Type: Gap	Product: BZ20_RS12905:16S ribosomal RNA	0	0.642857143	1	0	0	0	0	0	0	0	0.571428571	0	0	0	0	0	0	0	0	0.428571429
+NZ_CP009759_1_2748959_2751892	Type: Gap	Product: BZ20_RS12920:23S ribosomal RNA	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.125	0	0	0	0	0
